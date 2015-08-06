@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="RussBucks-TestCronJob.exe" version="1.0.0.5" publicKeyToken="5b5852474b8adc18" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="RussBucks-TestCronJob" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="RussBucks-TestCronJob.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="EntityFramework.dll" size="5196496">
+      <assemblyIdentity name="EntityFramework" version="6.0.0.0" publicKeyToken="B77A5C561934E089" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>7W69dJBS+QGPZplnGuVGmt7fCGz4sb1CVrvpxOf2/wU=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="EntityFramework.SqlServer.dll" size="621264">
+      <assemblyIdentity name="EntityFramework.SqlServer" version="6.0.0.0" publicKeyToken="B77A5C561934E089" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>ob9snjgg6D9D6fIN19mwozYqkxRvCv4LEzAYXi1RsMs=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="RussBucks-TestCronJob.exe" size="112568">
+      <assemblyIdentity name="RussBucks-TestCronJob" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>hFsSrA8tpCdXqO+9zyUWMJWjLtqQMzP1XsKh4skJdus=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="RussBucks-TestCronJob.exe.config" size="1706">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>43OagS4+6glkGHDNVySwAkL8rBTwWOcD+XxCjkU5cFY=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=LARRYPC3\Larry" issuerKeyHash="60917b779c70ae29467595edcc9cdf79477999d3" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>J0+sdhpn/DA9u+KF6O3sn/pzWSDUvzF4kAsQqzdD8Vs=</DigestValue></Reference></SignedInfo><SignatureValue>gKbrAHVnu76cDmqgqiMpFB8AmhyZgdiT90W/PpsjlMhZeVCPMk9p4DwExC2ifHMkk5vQKB08XZ+WPry1H4m6tMeQICbRwizyO41A82B34rSKC123WRf4vN+bMNub2+ZJ9QHbA/e41n+B099bwHFFq1Br5oL3OvCPWD8YCLL9gt8=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>uUYeSzv8dhMKHx+9X/7ywysUQEAXENPCUFmXw5Q51jxXbJWjGAc5EcV22T9UlFZpkt5jVP1xVZ7KYN3IRajZ5/uUA80HXATU3gjETJxXLMEaJy02zF66dabjhJpERl5QM1mssHFrGfdW9CqAX5J4CSShAmLyISEhV334iThyrvE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="5bf14337ab100b907831bfd4205973fa9fecede885e2bb3d30fc671a76ac4f27" Description="" Url=""><as:assemblyIdentity name="RussBucks-TestCronJob.exe" version="1.0.0.5" publicKeyToken="5b5852474b8adc18" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=LARRYPC3\Larry</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>OFjvPB8pt0OZje78g0abId838n/rEbxomt/+apiex68=</DigestValue></Reference></SignedInfo><SignatureValue>HhBjBsjtn8WqFqOhWG/suhCRPIkuPSkVlua6385fE4hwCZmKP2l36NGxHpiHj3rwtp190io+jjNZVYmhH8I5dggcJ4NLaM+6yV/ep76L6/S/WxdNfzB/JWPyM6URkFtEoB9xTcxV5l+4UqpHG4rHE0VsCopDEj85WpcLYuq17tg=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>uUYeSzv8dhMKHx+9X/7ywysUQEAXENPCUFmXw5Q51jxXbJWjGAc5EcV22T9UlFZpkt5jVP1xVZ7KYN3IRajZ5/uUA80HXATU3gjETJxXLMEaJy02zF66dabjhJpERl5QM1mssHFrGfdW9CqAX5J4CSShAmLyISEhV334iThyrvE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB0TCCATqgAwIBAgIQFbdMd7X08oVFhb/Bi0LQpzANBgkqhkiG9w0BAQsFADAnMSUwIwYDVQQDHhwATABBAFIAUgBZAFAAQwAzAFwATABhAHIAcgB5MB4XDTE1MDYyMTAyMTI0OFoXDTE2MDYyMDA4MTI0OFowJzElMCMGA1UEAx4cAEwAQQBSAFIAWQBQAEMAMwBcAEwAYQByAHIAeTCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAuUYeSzv8dhMKHx+9X/7ywysUQEAXENPCUFmXw5Q51jxXbJWjGAc5EcV22T9UlFZpkt5jVP1xVZ7KYN3IRajZ5/uUA80HXATU3gjETJxXLMEaJy02zF66dabjhJpERl5QM1mssHFrGfdW9CqAX5J4CSShAmLyISEhV334iThyrvECAwEAATANBgkqhkiG9w0BAQsFAAOBgQBwLnYA3mOXTdbtGsJfhT5Gv5cj3/UkS5wy0XG/CgzvRgqlLHLDnUWFgPwP4cMsfbuzWTH9Uvoj9rgX8Sy2k08/uH9OhHHRTgwQxC5HBPHBixG06Dwpvo9+DZSoJ9pyOIauwrTVA1KqterVo0ageVBD2+CDsAe+IreWgw2F0KBI4g==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

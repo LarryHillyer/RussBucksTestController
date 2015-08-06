@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<score filetime="2:57 PM" filedate="6/17/2015" TimePeriod="Week3">
+  <game hometeam="lions" awayteam="chiefs">
+    <homescore>24</homescore>
+    <awayscore>17</awayscore>
+    <gametime>in progress</gametime>
+  </game>
+  <game hometeam="steelers" awayteam="browns">
+    <homescore>14</homescore>
+    <awayscore>10</awayscore>
+    <gametime>in progress</gametime>
+  </game>
+  <game hometeam="jets" awayteam="patriots">
+    <homescore>14</homescore>
+    <awayscore>10</awayscore>
+    <gametime>in progress</gametime>
+  </game>
+  <game hometeam="bengals" awayteam="dolphins">
+    <homescore>10</homescore>
+    <awayscore>14</awayscore>
+    <gametime>in progress</gametime>
+  </game>
+  <game hometeam="colts" awayteam="jaguars">
+    <homescore>24</homescore>
+    <awayscore>10</awayscore>
+    <gametime>in progress</gametime>
+  </game>
+  <game hometeam="chargers" awayteam="bills">
+    <homescore>14</homescore>
+    <awayscore>7</awayscore>
+    <gametime>in progress</gametime>
+  </game>
+  <game hometeam="redskins" awayteam="buccaneers">
+    <homescore>14</homescore>
+    <awayscore>17</awayscore>
+    <gametime>in progress</gametime>
+  </game>
+  <game hometeam="rams" awayteam="raiders">
+    <homescore>14</homescore>
+    <awayscore>10</awayscore>
+    <gametime>in progress</gametime>
+  </game>
+  <game hometeam="ravens" awayteam="titans">
+    <homescore>14</homescore>
+    <awayscore>10</awayscore>
+    <gametime>in progress</gametime>
+  </game>
+  <game hometeam="vikings" awayteam="saints">
+    <homescore>21</homescore>
+    <awayscore>17</awayscore>
+    <gametime>in progress</gametime>
+  </game>
+  <game hometeam="broncos" awayteam="49ners">
+    <homescore>14</homescore>
+    <awayscore>17</awayscore>
+    <gametime>in progress</gametime>
+  </game>
+  <game hometeam="bears" awayteam="cowboys">
+    <homescore>21</homescore>
+    <awayscore>17</awayscore>
+    <gametime>in progress</gametime>
+  </game>
+  <game hometeam="eagles" awayteam="falcons">
+    <homescore>14</homescore>
+    <awayscore>28</awayscore>
+    <gametime>in progress</gametime>
+  </game>
+</score>

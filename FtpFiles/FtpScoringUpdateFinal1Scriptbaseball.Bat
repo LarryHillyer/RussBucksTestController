@@ -1,0 +1,1 @@
+ftp -s:C:\Users\Larry\Documents\GitHub\RussBucksTestCronJob\FtpFiles\FtpScoringUpdateFinal1Scriptbaseball.Txt

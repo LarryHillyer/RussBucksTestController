@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<score filetime="2:44 PM" filedate="6/17/2015" TimePeriod="Week1">
+  <game hometeam="steelers" awayteam="patriots">
+    <homescore>0</homescore>
+    <awayscore>7</awayscore>
+    <gametime>in progress</gametime>
+  </game>
+  <game hometeam="chiefs" awayteam="texans">
+    <homescore>10</homescore>
+    <awayscore>7</awayscore>
+    <gametime>in progress</gametime>
+  </game>
+  <game hometeam="browns" awayteam="jets">
+    <homescore>3</homescore>
+    <awayscore>3</awayscore>
+    <gametime>in progress</gametime>
+  </game>
+  <game hometeam="colts" awayteam="bills">
+    <homescore>14</homescore>
+    <awayscore>10</awayscore>
+    <gametime>in progress</gametime>
+  </game>
+  <game hometeam="dolphins" awayteam="redskins">
+    <homescore>7</homescore>
+    <awayscore>10</awayscore>
+    <gametime>in progress</gametime>
+  </game>
+  <game hometeam="panthers" awayteam="jaguars">
+    <homescore>17</homescore>
+    <awayscore>0</awayscore>
+    <gametime>in progress</gametime>
+  </game>
+  <game hometeam="rams" awayteam="titans">
+    <homescore>14</homescore>
+    <awayscore>10</awayscore>
+    <gametime>in progress</gametime>
+  </game>
+  <game hometeam="buccaneers" awayteam="bengals">
+    <homescore>7</homescore>
+    <awayscore>10</awayscore>
+    <gametime>in progress</gametime>
+  </game>
+  <game hometeam="broncos" awayteam="cowboys">
+    <homescore>0</homescore>
+    <awayscore>21</awayscore>
+    <gametime>in progress</gametime>
+  </game>
+  <game hometeam="eagles" awayteam="vikings">
+    <homescore>10</homescore>
+    <awayscore>3</awayscore>
+    <gametime>in progress</gametime>
+  </game>
+  <game hometeam="49ners" awayteam="bears">
+    <homescore>14</homescore>
+    <awayscore>3</awayscore>
+    <gametime>in progress</gametime>
+  </game>
+  <game hometeam="seahawks" awayteam="packers">
+    <homescore>14</homescore>
+    <awayscore>10</awayscore>
+    <gametime>in progress</gametime>
+  </game>
+  <game hometeam="falcons" awayteam="saints">
+    <homescore>7</homescore>
+    <awayscore>10</awayscore>
+    <gametime>in progress</gametime>
+  </game>
+  <game hometeam="cardinals" awayteam="chargers">
+    <homescore>9</homescore>
+    <awayscore>13</awayscore>
+    <gametime>in progress</gametime>
+  </game>
+  <game hometeam="lions" awayteam="giants">
+    <homescore>3</homescore>
+    <awayscore>10</awayscore>
+    <gametime>in progress</gametime>
+  </game>
+  <game hometeam="ravens" awayteam="raiders">
+    <homescore>7</homescore>
+    <awayscore>3</awayscore>
+    <gametime>in progress</gametime>
+  </game>
+</score>

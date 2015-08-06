@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<score filetime="4:48 PM" filedate="8/5/2015" TimePeriod="Day5">
+  <game hometeam="NY Yankees" awayteam="Baltimore" gamecode="501">
+    <homescore>2</homescore>
+    <awayscore>2</awayscore>
+    <gametime>4:47 PM</gametime>
+    <gamedate>8/5/2015</gamedate>
+    <display_status1 />
+    <display_status2 />
+    <status>In Progress</status>
+  </game>
+  <game hometeam="Washington" awayteam="Atlanta" gamecode="502">
+    <homescore>0</homescore>
+    <awayscore>0</awayscore>
+    <gametime>4:47 PM</gametime>
+    <gamedate>8/5/2015</gamedate>
+    <display_status1 />
+    <display_status2 />
+    <status>In Progress</status>
+  </game>
+  <game hometeam="Philadelphia" awayteam="NY Mets" gamecode="503">
+    <homescore>1</homescore>
+    <awayscore>1</awayscore>
+    <gametime>4:47 PM</gametime>
+    <gamedate>8/5/2015</gamedate>
+    <display_status1 />
+    <display_status2 />
+    <status>In Progress</status>
+  </game>
+  <game hometeam="Pittsburgh" awayteam="St. Louis" gamecode="504">
+    <homescore>1</homescore>
+    <awayscore>0</awayscore>
+    <gametime>4:47 PM</gametime>
+    <gamedate>8/5/2015</gamedate>
+    <display_status1 />
+    <display_status2 />
+    <status>In Progress</status>
+  </game>
+  <game hometeam="Toronto" awayteam="Boston" gamecode="505">
+    <homescore>0</homescore>
+    <awayscore>0</awayscore>
+    <gametime>4:47 PM</gametime>
+    <gamedate>8/5/2015</gamedate>
+    <display_status1 />
+    <display_status2 />
+    <status>In Progress</status>
+  </game>
+  <game hometeam="Detroit" awayteam="Kansas City" gamecode="506">
+    <homescore>2</homescore>
+    <awayscore>1</awayscore>
+    <gametime>4:47 PM</gametime>
+    <gamedate>8/5/2015</gamedate>
+    <display_status1 />
+    <display_status2 />
+    <status>In Progress</status>
+  </game>
+  <game hometeam="Cleveland" awayteam="Minnesota" gamecode="507">
+    <homescore>0</homescore>
+    <awayscore>0</awayscore>
+    <gametime>4:47 PM</gametime>
+    <gamedate>8/5/2015</gamedate>
+    <display_status1 />
+    <display_status2 />
+    <status>In Progress</status>
+  </game>
+  <game hometeam="Tampa Bay" awayteam="Texas" gamecode="508">
+    <homescore>1</homescore>
+    <awayscore>1</awayscore>
+    <gametime>4:47 PM</gametime>
+    <gamedate>8/5/2015</gamedate>
+    <display_status1 />
+    <display_status2 />
+    <status>In Progress</status>
+  </game>
+  <game hometeam="Chicago White Sox" awayteam="Cincinnati" gamecode="509">
+    <homescore>2</homescore>
+    <awayscore>3</awayscore>
+    <gametime>4:47 PM</gametime>
+    <gamedate>8/5/2015</gamedate>
+    <display_status1 />
+    <display_status2 />
+    <status>In Progress</status>
+  </game>
+  <game hometeam="Milwaukee" awayteam="Chicago Cubs" gamecode="510">
+    <homescore>1</homescore>
+    <awayscore>2</awayscore>
+    <gametime>4:47 PM</gametime>
+    <gamedate>8/5/2015</gamedate>
+    <display_status1 />
+    <display_status2 />
+    <status>In Progress</status>
+  </game>
+  <game hometeam="Colorado" awayteam="LA Dodgers" gamecode="511">
+    <homescore>0</homescore>
+    <awayscore>1</awayscore>
+    <gametime>4:47 PM</gametime>
+    <gamedate>8/5/2015</gamedate>
+    <display_status1 />
+    <display_status2 />
+    <status>In Progress</status>
+  </game>
+  <game hometeam="Arizona" awayteam="San Diego" gamecode="512">
+    <homescore>1</homescore>
+    <awayscore>1</awayscore>
+    <gametime>4:47 PM</gametime>
+    <gamedate>8/5/2015</gamedate>
+    <display_status1 />
+    <display_status2 />
+    <status>In Progress</status>
+  </game>
+  <game hometeam="LA Angels" awayteam="Houston" gamecode="513">
+    <homescore>0</homescore>
+    <awayscore>1</awayscore>
+    <gametime>4:47 PM</gametime>
+    <gamedate>8/5/2015</gamedate>
+    <display_status1 />
+    <display_status2 />
+    <status>In Progress</status>
+  </game>
+  <game hometeam="Seattle" awayteam="Oakland" gamecode="514">
+    <homescore>2</homescore>
+    <awayscore>0</awayscore>
+    <gametime>4:47 PM</gametime>
+    <gamedate>8/5/2015</gamedate>
+    <display_status1 />
+    <display_status2 />
+    <status>In Progress</status>
+  </game>
+  <game hometeam="San Francisco" awayteam="Miami" gamecode="515">
+    <homescore>2</homescore>
+    <awayscore>1</awayscore>
+    <gametime>4:47 PM</gametime>
+    <gamedate>8/5/2015</gamedate>
+    <display_status1 />
+    <display_status2 />
+    <status>In Progress</status>
+  </game>
+</score>

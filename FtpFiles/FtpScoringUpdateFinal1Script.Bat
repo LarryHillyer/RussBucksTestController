@@ -1,0 +1,1 @@
+ftp -s:C:\Users\Larry\SkyDrive\GitHub\RussBucksTestController\FtpFiles\FtpScoringUpdateFinal1Script.Txt

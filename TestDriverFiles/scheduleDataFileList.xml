@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<schedulefiles>
+  <file dayNumber="day1">
+    <filepath>.\scheduleFileDay1.xml</filepath>
+  </file>
+  <file dayNumber="day3">
+    <filepath>.\scheduleFileDay3.xml</filepath>
+  </file>
+  <file dayNumber="day5">
+    <filepath>.\scheduleFileDay5.xml</filepath>
+  </file>
+</schedulefiles>

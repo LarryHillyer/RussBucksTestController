@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BarPoolList>
+  <BarPool UserId="chillyerhotmailcom">
+    <PoolName>LoserPool</PoolName>
+    <PoolAlias>RussbucksLoserPool</PoolAlias>
+    <Sport>baseball</Sport>
+  </BarPool>
+  <BarPool UserId="PatHotmailcom">
+    <PoolName>LoserPool</PoolName>
+    <PoolAlias>RussbucksLoserPool</PoolAlias>
+    <Sport>baseball</Sport>
+  </BarPool>
+  <BarPool UserId="Samhotmailcom">
+    <PoolName>LoserPool</PoolName>
+    <PoolAlias>RussbucksLoserPool</PoolAlias>
+    <Sport>baseball</Sport>
+  </BarPool>
+  <BarPool UserId="Georgehotmailcom">
+    <PoolName>LoserPool</PoolName>
+    <PoolAlias>RussbucksLoserPool</PoolAlias>
+    <Sport>baseball</Sport>
+  </BarPool>
+  <BarPool UserId="MandyHotmailcom">
+    <PoolName>LoserPool</PoolName>
+    <PoolAlias>RussbucksLoserPool</PoolAlias>
+    <Sport>baseball</Sport>
+  </BarPool>
+  <BarPool UserId="lh4uhotmailcom">
+    <PoolName>LoserPool</PoolName>
+    <PoolAlias>RussbucksLoserPool</PoolAlias>
+    <Sport>baseball</Sport>
+  </BarPool>
+</BarPoolList>

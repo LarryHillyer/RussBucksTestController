@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<schedule>
+  <TimeP Sport="baseball" TimePeriod="Day5">
+    <game gameNumber="game1" gameCode="501">
+      <homeTeam>NY Yankees</homeTeam>
+      <awayTeam>Baltimore</awayTeam>
+      <gameTime>4:47 PM</gameTime>
+      <gameDate>8/5/2015</gameDate>
+      <display_status1 />
+      <display_status2 />
+      <status />
+    </game>
+    <game gameNumber="game2" gameCode="502">
+      <homeTeam>Washington</homeTeam>
+      <awayTeam>Atlanta</awayTeam>
+      <gameTime>4:47 PM</gameTime>
+      <gameDate>8/5/2015</gameDate>
+      <display_status1 />
+      <display_status2 />
+      <status />
+    </game>
+    <game gameNumber="game3" gameCode="503">
+      <homeTeam>Philadelphia</homeTeam>
+      <awayTeam>NY Mets</awayTeam>
+      <gameTime>4:47 PM</gameTime>
+      <gameDate>8/5/2015</gameDate>
+      <display_status1 />
+      <display_status2 />
+      <status />
+    </game>
+    <game gameNumber="game4" gameCode="504">
+      <homeTeam>Pittsburgh</homeTeam>
+      <awayTeam>St. Louis</awayTeam>
+      <gameTime>4:47 PM</gameTime>
+      <gameDate>8/5/2015</gameDate>
+      <display_status1 />
+      <display_status2 />
+      <status />
+    </game>
+    <game gameNumber="game5" gameCode="505">
+      <homeTeam>Toronto</homeTeam>
+      <awayTeam>Boston</awayTeam>
+      <gameTime>4:47 PM</gameTime>
+      <gameDate>8/5/2015</gameDate>
+      <display_status1 />
+      <display_status2 />
+      <status />
+    </game>
+    <game gameNumber="game6" gameCode="506">
+      <homeTeam>Detroit</homeTeam>
+      <awayTeam>Kansas City</awayTeam>
+      <gameTime>4:47 PM</gameTime>
+      <gameDate>8/5/2015</gameDate>
+      <display_status1 />
+      <display_status2 />
+    </game>
+    <game gameNumber="game7" gameCode="507">
+      <homeTeam>Cleveland</homeTeam>
+      <awayTeam>Minnesota</awayTeam>
+      <gameTime>4:47 PM</gameTime>
+      <gameDate>8/5/2015</gameDate>
+      <display_status1 />
+      <display_status2 />
+      <status />
+    </game>
+    <game gameNumber="game8" gameCode="508">
+      <homeTeam>Tampa Bay</homeTeam>
+      <awayTeam>Texas</awayTeam>
+      <gameTime>4:47 PM</gameTime>
+      <gameDate>8/5/2015</gameDate>
+      <display_status1 />
+      <display_status2 />
+      <status />
+    </game>
+    <game gameNumber="game9" gameCode="509">
+      <homeTeam>Chicago White Sox</homeTeam>
+      <awayTeam>Cincinnati</awayTeam>
+      <gameTime>4:47 PM</gameTime>
+      <gameDate>8/5/2015</gameDate>
+      <display_status1 />
+      <display_status2 />
+      <status />
+    </game>
+    <game gameNumber="game10" gameCode="510">
+      <homeTeam>Milwaukee</homeTeam>
+      <awayTeam>Chicago Cubs</awayTeam>
+      <gameTime>4:47 PM</gameTime>
+      <gameDate>8/5/2015</gameDate>
+      <display_status1 />
+      <display_status2 />
+      <status />
+    </game>
+    <game gameNumber="game11" gameCode="511">
+      <homeTeam>Colorado</homeTeam>
+      <awayTeam>LA Dodgers</awayTeam>
+      <gameTime>4:47 PM</gameTime>
+      <gameDate>8/5/2015</gameDate>
+      <display_status1 />
+      <display_status2 />
+      <status />
+    </game>
+    <game gameNumber="game12" gameCode="512">
+      <homeTeam>Arizona</homeTeam>
+      <awayTeam>San Diego</awayTeam>
+      <gameTime>4:47 PM</gameTime>
+      <gameDate>8/5/2015</gameDate>
+      <display_status1 />
+      <display_status2 />
+      <status />
+    </game>
+    <game gameNumber="game13" gameCode="513">
+      <homeTeam>LA Angels</homeTeam>
+      <awayTeam>Houston</awayTeam>
+      <gameTime>4:47 PM</gameTime>
+      <gameDate>8/5/2015</gameDate>
+      <display_status1 />
+      <display_status2 />
+      <status />
+    </game>
+    <game gameNumber="game14" gameCode="514">
+      <homeTeam>Seattle</homeTeam>
+      <awayTeam>Oakland</awayTeam>
+      <gameTime>4:47 PM</gameTime>
+      <gameDate>8/5/2015</gameDate>
+      <display_status1 />
+      <display_status2 />
+      <status />
+    </game>
+    <game gameNumber="game15" gameCode="515">
+      <homeTeam>San Francisco</homeTeam>
+      <awayTeam>Miami</awayTeam>
+      <gameTime>4:47 PM</gameTime>
+      <gameDate>8/5/2015</gameDate>
+      <display_status1 />
+      <display_status2 />
+      <status />
+    </game>
+  </TimeP>
+</schedule>
