@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<score filetime="4:38 PM" filedate="8/5/2015" TimePeriod="Day1">
+<score filetime="12:09 PM" filedate="8/7/2015" TimePeriod="Day1">
   <game hometeam="Washington" awayteam="Miami" gamecode="101">
     <homescore>6</homescore>
     <awayscore>7</awayscore>
-    <gametime>4:35 PM</gametime>
-    <gamedate>8/5/2015</gamedate>
+    <gametime>12:06 PM</gametime>
+    <gamedate>8/7/2015</gamedate>
     <display_status1 />
     <display_status2 />
     <status>final</status>
@@ -12,8 +12,8 @@
   <game hometeam="Boston" awayteam="Tampa Bay" gamecode="103">
     <homescore>5</homescore>
     <awayscore>3</awayscore>
-    <gametime>4:35 PM</gametime>
-    <gamedate>8/5/2015</gamedate>
+    <gametime>12:06 PM</gametime>
+    <gamedate>8/7/2015</gamedate>
     <display_status1 />
     <display_status2 />
     <status>final</status>
@@ -21,8 +21,8 @@
   <game hometeam="Atlanta" awayteam="Philadelphia" gamecode="104">
     <homescore>4</homescore>
     <awayscore>3</awayscore>
-    <gametime>4:35 PM</gametime>
-    <gamedate>8/5/2015</gamedate>
+    <gametime>12:06 PM</gametime>
+    <gamedate>8/7/2015</gamedate>
     <display_status1 />
     <display_status2 />
     <status>final</status>
@@ -30,8 +30,8 @@
   <game hometeam="Milwaukee" awayteam="LA Dodgers" gamecode="105">
     <homescore>1</homescore>
     <awayscore>0</awayscore>
-    <gametime>4:35 PM</gametime>
-    <gamedate>8/5/2015</gamedate>
+    <gametime>12:06 PM</gametime>
+    <gamedate>8/7/2015</gamedate>
     <display_status1 />
     <display_status2 />
     <status>final</status>
@@ -39,8 +39,8 @@
   <game hometeam="Minnesota" awayteam="Oakland" gamecode="106">
     <homescore>6</homescore>
     <awayscore>5</awayscore>
-    <gametime>4:35 PM</gametime>
-    <gamedate>8/5/2015</gamedate>
+    <gametime>12:06 PM</gametime>
+    <gamedate>8/7/2015</gamedate>
     <display_status1 />
     <display_status2 />
     <status>final</status>
@@ -48,8 +48,8 @@
   <game hometeam="Houston" awayteam="Texas" gamecode="107">
     <homescore>1</homescore>
     <awayscore>0</awayscore>
-    <gametime>4:35 PM</gametime>
-    <gamedate>8/5/2015</gamedate>
+    <gametime>12:06 PM</gametime>
+    <gamedate>8/7/2015</gamedate>
     <display_status1 />
     <display_status2 />
     <status>final</status>
@@ -57,8 +57,8 @@
   <game hometeam="St. Louis" awayteam="Chicago Cubs" gamecode="108">
     <homescore>3</homescore>
     <awayscore>1</awayscore>
-    <gametime>4:35 PM</gametime>
-    <gamedate>8/5/2015</gamedate>
+    <gametime>12:06 PM</gametime>
+    <gamedate>8/7/2015</gamedate>
     <display_status1 />
     <display_status2 />
     <status>final</status>
@@ -66,8 +66,8 @@
   <game hometeam="Colorado" awayteam="Arizona" gamecode="109">
     <homescore>8</homescore>
     <awayscore>6</awayscore>
-    <gametime>4:35 PM</gametime>
-    <gamedate>8/5/2015</gamedate>
+    <gametime>12:06 PM</gametime>
+    <gamedate>8/7/2015</gamedate>
     <display_status1 />
     <display_status2 />
     <status>final</status>
@@ -75,8 +75,8 @@
   <game hometeam="LA Angels" awayteam="Seattle" gamecode="110">
     <homescore>2</homescore>
     <awayscore>4</awayscore>
-    <gametime>4:35 PM</gametime>
-    <gamedate>8/5/2015</gamedate>
+    <gametime>12:06 PM</gametime>
+    <gamedate>8/7/2015</gamedate>
     <display_status1 />
     <display_status2 />
     <status>final</status>
@@ -84,8 +84,8 @@
   <game hometeam="San Francisco" awayteam="San Diego" gamecode="111">
     <homescore>3</homescore>
     <awayscore>1</awayscore>
-    <gametime>4:35 PM</gametime>
-    <gamedate>8/5/2015</gamedate>
+    <gametime>12:06 PM</gametime>
+    <gamedate>8/7/2015</gamedate>
     <display_status1 />
     <display_status2 />
     <status>final</status>

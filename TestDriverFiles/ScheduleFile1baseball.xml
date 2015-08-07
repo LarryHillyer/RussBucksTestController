@@ -4,8 +4,8 @@
     <game gameNumber="game1" gameCode="101">
       <homeTeam>Washington</homeTeam>
       <awayTeam>Miami</awayTeam>
-      <gameTime>4:35 PM</gameTime>
-      <gameDate>8/5/2015</gameDate>
+      <gameTime>12:06 PM</gameTime>
+      <gameDate>8/7/2015</gameDate>
       <display_status1 />
       <display_status2 />
       <status />
@@ -13,8 +13,8 @@
     <game gameNumber="game2" gameCode="102">
       <homeTeam>Toronto</homeTeam>
       <awayTeam>NY Yankees</awayTeam>
-      <gameTime>4:35 PM</gameTime>
-      <gameDate>8/5/2015</gameDate>
+      <gameTime>12:06 PM</gameTime>
+      <gameDate>8/7/2015</gameDate>
       <display_status1 />
       <display_status2 />
       <status />
@@ -22,8 +22,8 @@
     <game gameNumber="game3" gameCode="103">
       <homeTeam>Boston</homeTeam>
       <awayTeam>Tampa Bay</awayTeam>
-      <gameTime>4:35 PM</gameTime>
-      <gameDate>8/5/2015</gameDate>
+      <gameTime>12:06 PM</gameTime>
+      <gameDate>8/7/2015</gameDate>
       <display_status1 />
       <display_status2 />
       <status />
@@ -31,8 +31,8 @@
     <game gameNumber="game4" gameCode="104">
       <homeTeam>Atlanta</homeTeam>
       <awayTeam>Philadelphia</awayTeam>
-      <gameTime>4:35 PM</gameTime>
-      <gameDate>8/5/2015</gameDate>
+      <gameTime>12:06 PM</gameTime>
+      <gameDate>8/7/2015</gameDate>
       <display_status1 />
       <display_status2 />
       <status />
@@ -40,8 +40,8 @@
     <game gameNumber="game5" gameCode="105">
       <homeTeam>Milwaukee</homeTeam>
       <awayTeam>LA Dodgers</awayTeam>
-      <gameTime>4:35 PM</gameTime>
-      <gameDate>8/5/2015</gameDate>
+      <gameTime>12:06 PM</gameTime>
+      <gameDate>8/7/2015</gameDate>
       <display_status1 />
       <display_status2 />
       <status />
@@ -49,8 +49,8 @@
     <game gameNumber="game6" gameCode="106">
       <homeTeam>Minnesota</homeTeam>
       <awayTeam>Oakland</awayTeam>
-      <gameTime>4:35 PM</gameTime>
-      <gameDate>8/5/2015</gameDate>
+      <gameTime>12:06 PM</gameTime>
+      <gameDate>8/7/2015</gameDate>
       <display_status1 />
       <display_status2 />
       <status />
@@ -58,8 +58,8 @@
     <game gameNumber="game7" gameCode="107">
       <homeTeam>Houston</homeTeam>
       <awayTeam>Texas</awayTeam>
-      <gameTime>4:35 PM</gameTime>
-      <gameDate>8/5/2015</gameDate>
+      <gameTime>12:06 PM</gameTime>
+      <gameDate>8/7/2015</gameDate>
       <display_status1 />
       <display_status2 />
       <status />
@@ -67,8 +67,8 @@
     <game gameNumber="game8" gameCode="108">
       <homeTeam>St. Louis</homeTeam>
       <awayTeam>Chicago Cubs</awayTeam>
-      <gameTime>4:35 PM</gameTime>
-      <gameDate>8/5/2015</gameDate>
+      <gameTime>12:06 PM</gameTime>
+      <gameDate>8/7/2015</gameDate>
       <display_status1 />
       <display_status2 />
       <status />
@@ -76,8 +76,8 @@
     <game gameNumber="game9" gameCode="109">
       <homeTeam>Colorado</homeTeam>
       <awayTeam>Arizona</awayTeam>
-      <gameTime>4:35 PM</gameTime>
-      <gameDate>8/5/2015</gameDate>
+      <gameTime>12:06 PM</gameTime>
+      <gameDate>8/7/2015</gameDate>
       <display_status1 />
       <display_status2 />
       <status />
@@ -85,8 +85,8 @@
     <game gameNumber="game10" gameCode="110">
       <homeTeam>LA Angels</homeTeam>
       <awayTeam>Seattle</awayTeam>
-      <gameTime>4:35 PM</gameTime>
-      <gameDate>8/5/2015</gameDate>
+      <gameTime>12:06 PM</gameTime>
+      <gameDate>8/7/2015</gameDate>
       <display_status1 />
       <display_status2 />
       <status />
@@ -94,8 +94,8 @@
     <game gameNumber="game11" gameCode="111">
       <homeTeam>San Francisco</homeTeam>
       <awayTeam>San Diego</awayTeam>
-      <gameTime>4:35 PM</gameTime>
-      <gameDate>8/5/2015</gameDate>
+      <gameTime>12:06 PM</gameTime>
+      <gameDate>8/7/2015</gameDate>
       <display_status1 />
       <display_status2 />
       <status />
