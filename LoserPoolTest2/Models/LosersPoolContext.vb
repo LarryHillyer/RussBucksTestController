@@ -18,7 +18,7 @@ Namespace LosersPool.Models
         Public Property UserPicks As DbSet(Of UserPick)
 
         Public Sub New()
-            MyBase.New("LosersPool-RussBucks")
+            MyBase.New("RussBucks-LoserPool")
         End Sub
 
 

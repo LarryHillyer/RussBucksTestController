@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<score filetime="12:07 PM" filedate="8/7/2015" TimePeriod="Day1">
+<score filetime="4:19 PM" filedate="8/12/2015" TimePeriod="Day1">
   <game hometeam="Washington" awayteam="Miami" gamecode="101">
     <homescore>2</homescore>
     <awayscore>1</awayscore>
-    <gametime>12:06 PM</gametime>
-    <gamedate>8/7/2015</gamedate>
+    <gametime>4:18 PM</gametime>
+    <gamedate>8/12/2015</gamedate>
     <display_status1 />
     <display_status2 />
     <status>In-Progress</status>
@@ -12,8 +12,8 @@
   <game hometeam="Toronto" awayteam="NY Yankees" gamecode="102">
     <homescore>0</homescore>
     <awayscore>0</awayscore>
-    <gametime>12:06 PM</gametime>
-    <gamedate>8/7/2015</gamedate>
+    <gametime>4:18 PM</gametime>
+    <gamedate>8/12/2015</gamedate>
     <display_status1 />
     <display_status2 />
     <status>Postponed</status>
@@ -21,8 +21,8 @@
   <game hometeam="Boston" awayteam="Tampa Bay" gamecode="103">
     <homescore>0</homescore>
     <awayscore>2</awayscore>
-    <gametime>12:06 PM</gametime>
-    <gamedate>8/7/2015</gamedate>
+    <gametime>4:18 PM</gametime>
+    <gamedate>8/12/2015</gamedate>
     <display_status1 />
     <display_status2 />
     <status>In-Progress</status>
@@ -30,8 +30,8 @@
   <game hometeam="Atlanta" awayteam="Philadelphia" gamecode="104">
     <homescore>0</homescore>
     <awayscore>2</awayscore>
-    <gametime>12:06 PM</gametime>
-    <gamedate>8/7/2015</gamedate>
+    <gametime>4:18 PM</gametime>
+    <gamedate>8/12/2015</gamedate>
     <display_status1 />
     <display_status2 />
     <status>In-Progress</status>
@@ -39,8 +39,8 @@
   <game hometeam="Milwaukee" awayteam="LA Dodgers" gamecode="105">
     <homescore>0</homescore>
     <awayscore>0</awayscore>
-    <gametime>12:06 PM</gametime>
-    <gamedate>8/7/2015</gamedate>
+    <gametime>4:18 PM</gametime>
+    <gamedate>8/12/2015</gamedate>
     <display_status1 />
     <display_status2 />
     <status>In-Progress</status>
@@ -48,8 +48,8 @@
   <game hometeam="Minnesota" awayteam="Oakland" gamecode="106">
     <homescore>1</homescore>
     <awayscore>0</awayscore>
-    <gametime>12:06 PM</gametime>
-    <gamedate>8/7/2015</gamedate>
+    <gametime>4:18 PM</gametime>
+    <gamedate>8/12/2015</gamedate>
     <display_status1 />
     <display_status2 />
     <status>In-Progress</status>
@@ -57,8 +57,8 @@
   <game hometeam="Houston" awayteam="Texas" gamecode="107">
     <homescore>0</homescore>
     <awayscore>0</awayscore>
-    <gametime>12:06 PM</gametime>
-    <gamedate>8/7/2015</gamedate>
+    <gametime>4:18 PM</gametime>
+    <gamedate>8/12/2015</gamedate>
     <display_status1 />
     <display_status2 />
     <status>In-Progress</status>
@@ -66,8 +66,8 @@
   <game hometeam="St. Louis" awayteam="Chicago Cubs" gamecode="108">
     <homescore>0</homescore>
     <awayscore>1</awayscore>
-    <gametime>12:06 PM</gametime>
-    <gamedate>8/7/2015</gamedate>
+    <gametime>4:18 PM</gametime>
+    <gamedate>8/12/2015</gamedate>
     <display_status1 />
     <display_status2 />
     <status>In-Progress</status>
@@ -75,8 +75,8 @@
   <game hometeam="Colorado" awayteam="Arizona" gamecode="109">
     <homescore>2</homescore>
     <awayscore>0</awayscore>
-    <gametime>12:06 PM</gametime>
-    <gamedate>8/7/2015</gamedate>
+    <gametime>4:18 PM</gametime>
+    <gamedate>8/12/2015</gamedate>
     <display_status1 />
     <display_status2 />
     <status>In-Progress</status>
@@ -84,8 +84,8 @@
   <game hometeam="LA Angels" awayteam="Seattle" gamecode="110">
     <homescore>1</homescore>
     <awayscore>0</awayscore>
-    <gametime>12:06 PM</gametime>
-    <gamedate>8/7/2015</gamedate>
+    <gametime>4:18 PM</gametime>
+    <gamedate>8/12/2015</gamedate>
     <display_status1 />
     <display_status2 />
     <status>In-Progress</status>
@@ -93,8 +93,8 @@
   <game hometeam="San Francisco" awayteam="San Diego" gamecode="111">
     <homescore>0</homescore>
     <awayscore>1</awayscore>
-    <gametime>12:06 PM</gametime>
-    <gamedate>8/7/2015</gamedate>
+    <gametime>4:18 PM</gametime>
+    <gamedate>8/12/2015</gamedate>
     <display_status1 />
     <display_status2 />
     <status>In-Progress</status>
